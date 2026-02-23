@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , Hola, soy Brisa Escobar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 Acerca de mi:
-🚀 Soy estudiante de Ingenieria en Sistremas de Informacion en la UTN.<br> 🌐Actualmente estoy aprendiendo java y phyton.<br> 📘Deseo colaborar en varios proyectos.<br> 🔍 Mis metas futuras son Aprender más tecnologías y nunca dejar de crear nuevas ideas. <br> 
+🚀 Soy estudiante de Ingenieria en Sistremas de Informacion en la UTN.<br> 🌐Actualmente estoy aprendiendo java y phyton.<br> 📘Deseo colaborar en varios proyectos.<br> 🔍 Mis metas futuras son Aprender más tecnologías y nunca dejar de crear nuevas ideas. <br> 📫 Comunicate **brisaescobar13@gmail.com**
 
 <h4> Languages </h4>
 <span> 
@@ -22,9 +22,11 @@
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-Agregar en un futuro! 
+Agregar en un futuro!
 --> 
+
+<h4> IDE </h4>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
