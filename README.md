@@ -28,6 +28,7 @@
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 Agregar en un futuro!
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg
 --> 
 
 <h4> Tecnologias </h4>
@@ -38,13 +39,13 @@ Agregar en un futuro!
 <h4> IDE </h4>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conenctate conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/brisa-escobar-/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="final" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://www.instagram.com/briisa.escobar/?hl=es-la"
       alt="_._.adam._" height="30" width="40" /></a>
       
   
