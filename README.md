@@ -1,7 +1,7 @@
 <h1 align="center"><b> Hola, soy Brisa Escobar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 Acerca de mi:
-🎓 Soy estudiante de Ingenieria en Sistremas de Informacion en la UTN.<br> 🌐Actualmente estoy aprendiendo java y phyton.<br> 📘Deseo colaborar en varios proyectos.<br> 🔍 Mis metas futuras son Aprender más tecnologías y nunca dejar de crear nuevas ideas. <br> ✔ Actualmente estoy trabajando en modelado funcional, aprendiendo el desarollo del paradigma con objetos, ademas de la resolucion de problemas con logica. .<br> 📫 Comunicate **brisaescobar13@gmail.com** .
+🎓 Soy estudiante de Ingenieria en Sistremas de Informacion en la UTN.<br> 🌐 Estoy aprendiendo programacion en java y phyton.<br> 📘 Deseo colaborar en varios proyectos.<br> 🔍 Mis metas futuras son aprender más tecnologías y nunca dejar de crear nuevas ideas. <br> ✔ Actualmente estoy trabajando en modelado funcional, aprendiendo el desarollo del paradigmas oreintados a objetos, ademas de la resolucion de problemas con logica. .<br> 📫 Comunicate **brisaescobar13@gmail.com** .
 
 
 <h4> Languages </h4>
